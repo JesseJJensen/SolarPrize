@@ -1,4 +1,5 @@
 # American-Made Solar Prize Software Track Submission For Ready
+
 ## Response to Question 1:
 OEO seeks to address the affordable housing crisis as well as implement use of solar technologies utilizing allocated funds. The National Low Income Housing Coalition examines the US Census Bureau’s American Community Survey (ACS) yearly to identify the availability of rental homes to those earning 30% of the area median income or “living below the poverty line” - whichever is greater - referred to as “extremely low incomes”.  In 2020, the NLIHC found that 25% (10.9 million) of renter households are living with “extremely low incomes.” Furthermore, 71% of those 10.9 million renter households are housing-cost burdened - spending more than half of their incomes on rents and utilities (National Low Income Housing Coalition, 2020, P.1-2). We believe if renters are unable to meet their basic need of housing, there is minimal/no incentive to seek out alternative energy sources. If there are no incentives for the investor to implement alternative energy sources - they are not going to do so.
 
@@ -53,9 +54,25 @@ OEO has programmed a Smart Contract that is able to successfully distribute toke
 
 Timeline: 
 
-1)By April 1st 2022 (SET!) OEO will: Provide a minimum viable product (OEO DAO Platform) that reflects a “front end” or something that users (i.e.renters) can interact with, demonstrates development of tokens, distribution of tokens, development of proposals, and voting on proposals. Additionally, we will obtain a minimum of 2 written commitments from private investors using personal contacts to fund initial property. 
-By June 1st 2022 OEO will: Provide a refined product, form OEO DAO LLC, close on first property, form the first Property LLC in the series, and develop ERC-20 OEO Property Tokens (OEO PT). 
+1) By April 1st 2022 (SET!) OEO will: Provide a minimum viable product (OEO DAO Platform) that reflects a “front end” or something that users (i.e.renters) can interact with, demonstrates development of tokens, distribution of tokens, development of proposals, and voting on proposals. Additionally, we will obtain a minimum of 2 written commitments from private investors using personal contacts to fund initial property. 
 
-2)By July 2022 OEO will: Launch OEO DAO Platform, rents are successfully received on platform, develop ERC-20 OEO Governance Tokens (OEO GT), collect rents through platform, distribute collected rents to 3 identified funds (mortgage/taxes/insurance, solar conversion, and budget/profit).  
-By September 2022 (GO!) OEO will have successfully tokenized our first property with renters able to fully utilize the OEO DAO Platform and provide feedback. 
+2) By June 1st 2022 OEO will: Provide a refined product, form OEO DAO LLC, close on first property, form the first Property LLC in the series, and develop ERC-20 OEO Property Tokens (OEO PT). 
+
+3) By July 2022 OEO will: Launch OEO DAO Platform, rents are successfully received on platform, develop ERC-20 OEO Governance Tokens (OEO GT), collect rents through platform, distribute collected rents to 3 identified funds (mortgage/taxes/insurance, solar conversion, and budget/profit).  
+
+4) By September 2022 (GO!) OEO will have successfully tokenized our first property with renters able to fully utilize the OEO DAO Platform and provide feedback. 
 By September 2023 OEO will demonstrate success of the entire project by providing ledgers of a growing solar fund as well as proof of proposals and funds as identified by renters. OEO will move forward in acquiring property #2 to tokenize. OEO will begin marketing software to neighborhood developers as a means to establish HOA and  to bring solar technologies to residential neighborhoods as well. 
+
+5) By September 2023 OEO will demonstrate success of the entire project by providing ledgers of a growing solar fund as well as proof of proposals and funds as identified by renters. OEO will move forward in acquiring property #2 to tokenize. OEO will begin marketing software to neighborhood developers as a means to establish HOA and  to bring solar technologies to residential neighborhoods as well. 
+
+OEO’s high budget expenses to meet our goals throughout Ready! Set! Go! will include $70,000 to $90,000 initially allocated to the following: 
+
+>Software Development Team and Associated Costs
+
+>Miscellaneous Services and Software Development Tools
+
+>Blockchain and Web Development Consulting 
+
+>Establishment of Legal Structures and Counsel
+
+>Advertisement/Marketing Costs 
